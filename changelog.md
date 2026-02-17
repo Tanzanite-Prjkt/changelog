@@ -1,3 +1,8 @@
+# Changelog 17/02/2026
+- Add some popular game packages to sched_lib_name
+- Enable ScrollOptimizer
+- Build DSPVolumeSynchronizer
+
 # Changelog 14/02/2026
 - audio: Import volumes audio policy from raven
 - Revert "tanzanite: readjust audio configs"
