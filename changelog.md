@@ -1,3 +1,9 @@
+# Changelog 23/02/2026
+- tanzanite: Set ro.config.vc_call_vol_steps to 11
+- Import activity open/close animations
+- audio: improve mute duration
+- Add Opt out of speaker_layout_channel_mask field
+
 # Changelog 17/02/2026
 - Add some popular game packages to sched_lib_name
 - Enable ScrollOptimizer
