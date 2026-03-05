@@ -1,3 +1,10 @@
+# Changelog 05/03/2026
+- Update blobs from OS2.0.213.0.VOGEUXM
+- Switch to AIDL Codec2
+- Switch to source-built C2 service
+- add Smart Pixels feature support
+- Reduce QS blur radius to 23dp
+
 # Changelog 23/02/2026
 - tanzanite: Set ro.config.vc_call_vol_steps to 11
 - Import activity open/close animations
