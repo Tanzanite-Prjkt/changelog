@@ -1,3 +1,17 @@
+# Changelog 09/03/2026
+- Include preloader_raw eng
+- Use the proper way to disable console service
+- Set preferred refresh rate on keyguard to 60
+- Stop declaring PRODUCT_VIRTUAL_AB_COW_VERSION
+- Dynamically enable VAB compression
+- Allow Audio HAL to search sysfs_power_supply
+- Cleanup FrameworksResOverlay
+- Import phase offsets from Motorola
+- Raise the frequency of sampling regions in SurfaceFlinger
+- Drop framerate multi threshold
+- powerhint: Nuke GPU Block boost
+- Allow fod to be enabled when display is off
+
 # Changelog 05/03/2026
 - Update blobs from OS2.0.213.0.VOGEUXM
 - Switch to AIDL Codec2
