@@ -1,3 +1,7 @@
+# Changelog 12/03/2026
+- udfps: Set up HBM and force-disable FOD
+- dolby: Update dolby blobs from pdx237
+
 # Changelog 09/03/2026
 - Include preloader_raw eng
 - Use the proper way to disable console service
