@@ -1,3 +1,12 @@
+# Changelog 14/03/2026
+- Defer refresh rate changes when screen is off
+- Switch to NCM USB tethering
+- Switch to libperfmgr from hardware/google
+- Ensure 1.5 GB free space before creating zram backing device
+- Hand back GPU Frequency control to gpufreqv2
+- Allow games to use 120fps
+- Rename default bluetooth name to full device name
+
 # Changelog 12/03/2026
 - udfps: Set up HBM and force-disable FOD
 - dolby: Update dolby blobs from pdx237
