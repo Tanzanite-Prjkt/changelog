@@ -1,3 +1,12 @@
+# Changelog 03/04/2026
+- sepolicy: Allow libperfmgr to write to cpu_dma_latency_device
+- overlay: Kang some haptic configurations from zumapro
+- overlay: Disable Auxilary Cameras
+- audio: Configure Lineout, Handset and ADDA_DL_GAIN volumes
+- dolby: Whitelist permissions for Dolby
+- dolby: Implement DSPVolumeSynchronizer
+- dolby: Add privapp-permissions-dolby.xml as a dependency
+
 # Changelog 14/03/2026
 - Defer refresh rate changes when screen is off
 - Switch to NCM USB tethering
