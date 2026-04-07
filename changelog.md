@@ -1,3 +1,9 @@
+# Changelog 07/04/2026
+- Import Dolby media and Device media codecs from stock
+- rootdir: Refactor CPU policies and tune kernel parameters
+- bluetooth: Disable unsupported power stats reporting
+- kernel: Update kernel to Chihiro to v1.4
+
 # Changelog 03/04/2026
 - sepolicy: Allow libperfmgr to write to cpu_dma_latency_device
 - overlay: Kang some haptic configurations from zumapro
