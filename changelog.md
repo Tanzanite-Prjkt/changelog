@@ -1,3 +1,16 @@
+# Changelog 10/04/2026
+- Sync RCU settings
+- sepolicy: address vendor_init sysfs denials
+- init: disable multiple kswapd threads
+- init: match cpuset with Pixel layout
+- Allow games to use 120fps
+- rootdir: Drop ext4 fstab entries of dynamic partitions
+- Force to use EROFS
+- rootdir: Set auto for mmcblk0p1
+- sepolicy: Allow recovery to read and write exfat partitions
+- sepolicy: Allow recovery to read sysfs to get mmc type
+- rootdir: Add entry for mounting sdcard in recovery
+
 # Changelog 07/04/2026
 - Import Dolby media and Device media codecs from stock
 - rootdir: Refactor CPU policies and tune kernel parameters
