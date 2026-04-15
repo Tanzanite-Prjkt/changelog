@@ -1,3 +1,15 @@
+# Changelog 15/04/2026
+- Bump vulkan to 1.3
+- Bump opengl, vulkan deqp level to 2024-03-01
+- Upgrade mali blobs to latest blobs gpu 1.3
+- overlay: Update multiple vibration strength levels overlay for 13
+- overlay: Enable vibration intensity control
+- Disable memcg
+- Disable kmem cgroup accounting
+- Set PELT HALFLIFE to 8ms before early init boot stage
+- Explicitly set log_buf_len
+- Set product marketname properly
+
 # Changelog 10/04/2026
 - Sync RCU settings
 - sepolicy: address vendor_init sysfs denials
