@@ -1,3 +1,10 @@
+# Changelog 26/04/2026
+- Update vibrator effects config
+- hook up gamebar overlay for mtk
+- Add Gamebar Overlay
+- define vendor properties configs
+- Improve thermal usage against Idle CPU and GPU
+
 # Changelog 15/04/2026
 - Bump vulkan to 1.3
 - Bump opengl, vulkan deqp level to 2024-03-01
