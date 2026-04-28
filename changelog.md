@@ -1,3 +1,7 @@
+# Changelog 28/04/2026
+- Integrate Helio G99 performance and overheat fix
+- Update blobs, kernel, firmware from OS2.0.214.0.VOGEUXM
+
 # Changelog 26/04/2026
 - Update vibrator effects config
 - hook up gamebar overlay for mtk
