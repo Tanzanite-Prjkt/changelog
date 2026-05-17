@@ -1,3 +1,16 @@
+# Changelog 17/05/2026
+- init: implement kernel scheduler network optimizations
+- thm: Remove CPU management logic
+- rootdir: set ZRAM size to 60%
+- init: optimize virtual memory ZRAM parameters
+- recovery: fix battery reporting issue
+- power: Optimize I/O and VM parameters
+- sepolicy: Grant PowerHAL access to battery supply
+- powerhint: Tune for MT6789 and 120Hz
+- Resolve SEPolicy denials for Power HAL and overheat fix
+- Introduce autonomous thermal monitoring service (thm)
+- Update blobs from OS2.0.214.0.VOGEUXM
+
 # Changelog 26/04/2026
 - Update vibrator effects config
 - hook up gamebar overlay for mtk
