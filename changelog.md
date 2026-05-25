@@ -1,3 +1,12 @@
+# Changelog 25/05/2026
+- Reduce kernel printk logging
+- init: Kill Battery first_usage_date
+- Set-up batterysecret properly
+- overlay: Disable Bluetooth by Default
+- init: rm package cache on early boot
+- overlay: Enable AOD Wallpaper
+- Switch from the BFQ to the mq-deadline I/O scheduler
+
 # Changelog 17/05/2026
 - init: implement kernel scheduler network optimizations
 - thm: Remove CPU management logic
