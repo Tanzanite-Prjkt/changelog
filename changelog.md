@@ -1,3 +1,11 @@
+# Changelog 06/06/2026
+- Switch to 50% 1G ZRAM fstab from hw/pixel
+- Re-configure ZRAM
+- Enable zram writeback
+- Switch to Pixel thermal service
+- Refactor thermal configuration
+- Update Dolby Atmos properties
+
 # Changelog 25/05/2026
 - Reduce kernel printk logging
 - init: Kill Battery first_usage_date
