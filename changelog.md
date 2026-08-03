@@ -1,3 +1,21 @@
+# Changelog 03/08/2026
+- overlay: Reduce bright doze brightness overlay to 4
+- overlay: Disable proximity usage during doze
+- overlay: Use oem_pocket sensor on keyguard
+- Match and Upstream security patches from OS2.0.214.0.VOGEUXM
+- Match AVB setup with stock
+- Refactor keymint blobs
+- Refactor AVB mechanism
+- Update fingerprint and attest properties
+- Ship fenrir
+- Drop TEE sepolicy duplicates
+- Update netflix properties
+- Import hotword blobs
+- Define AVF remote attestation property
+- Update Yuuka Prebuilt Kernel
+- Update GameBar
+- Update LunarisDolby and Dolby Blobs
+
 # Changelog 06/06/2026
 - Switch to 50% 1G ZRAM fstab from hw/pixel
 - Re-configure ZRAM
