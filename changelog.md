@@ -1,3 +1,12 @@
+# Changelog 07/11/2026
+- Dropped dolby sepolicy
+- Build vndservicemanager
+- Adress avpud denials
+- Update Dolby Spatial Audio
+- Fix the IPv6 flow label size check when converting QoS policies from AIDL.
+- Redesign UI with expressive typography in LunarisDolby
+- Update blobs Dolby properties from https://github.com/swiitch-OFF-Lab/hardware_dolby/commits/sony-A17
+
 # Changelog 03/08/2026
 - overlay: Reduce bright doze brightness overlay to 4
 - overlay: Disable proximity usage during doze
